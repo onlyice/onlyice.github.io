@@ -1,29 +1,29 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
-reading_time:     true
+title:            onlyice
+description:      Life is short, make more fun
+disqus_shortname: onlyice
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: http://blog.onlyice.net
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           onlyice
+  avatar:         avatar.png
+  bio:            "Python 程序员，热爱电影和游戏"
+  email:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
-  stackexchange:  
+  github:         onlyice
+  stackexchange:
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +ZhihengLin
 
 # Background image to be tiled on all pages
 background: 
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -67,3 +67,6 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+# Custom settings
+excerpt_separator: <!--more-->

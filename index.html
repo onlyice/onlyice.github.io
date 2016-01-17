@@ -5,9 +5,7 @@ description: "Describe this nonsense."
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
 image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: feature/abstract/abstract-1.jpg
 ---
 
 {% for post in paginator.posts %}
@@ -34,7 +32,8 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {{ post.excerpt }}
+    <a href="{{ site.url }}{{ post.url }}">Read More >></a>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
