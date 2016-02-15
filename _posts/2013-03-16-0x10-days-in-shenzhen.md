@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 在深圳的 0x10 天
-modified: 2014-12-24 18:00
-tags: [life]
+tags: [Life]
 ---
 
 ![Tencent Building]({{ site.url }}/images/2013/03/shenzhen.jpg)
@@ -32,4 +31,3 @@ tags: [life]
 最后，无限感谢舅妈的照顾，无限感谢表哥各种奔波帮我搬行李，无限感谢导师给我的帮助。
 
 PS. 标题的 0x10 就是 16 的意思，用十六进制表示的。
-
