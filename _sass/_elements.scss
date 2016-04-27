@@ -12,8 +12,9 @@ hr {
 // --------------------------------------------------
 figure {
   margin: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  // Remove this paddings
+  // padding-top: 10px;
+  // padding-bottom: 10px;
   @include clearfix();
   img {
     margin-bottom: 10px;
