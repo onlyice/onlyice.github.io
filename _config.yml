@@ -27,7 +27,7 @@ owner:
   google_plus:    +ZhihengLin
 
 # Background image to be tiled on all pages
-background: /images/background/ps_neutral.png
+background: background/ps_neutral.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
