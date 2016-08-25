@@ -8,7 +8,7 @@ tags: Life
 
 <!--more-->
 
-<embed src="http://player.video.qiyi.com/92d6190a8544232d231e9ca7996d3d9e/0/428/v_19rrlxrpyg.swf-albumId=526648900-tvId=526648900-isPurchase=0-cnId=5" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
+<video controls="" src="http://dd.yinyuetai.com/uploads/videos/common/68CE015582265288052C75B70B24D629.mp4?sc=4a6cc63df957f2da"></video>
 
 比起大多数 MV 堆视觉效果和歌手表演，五月天的 MV 更注重叙事性，一首 MV 往往有一个相对完整、与歌曲本身相契合的故事，配合 MV 听歌更能体会歌曲表达的内容和情感。
 
