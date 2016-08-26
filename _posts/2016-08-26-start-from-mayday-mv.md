@@ -8,7 +8,7 @@ tags: Life
 
 <!--more-->
 
-<video controls="" alt="音悦台-顽固-可能会失效" src="http://14.17.82.38/videos/v0/20160823/04/a8/53d18a94dc9a43f6cc5636087ca89199.mp4?key=07aecaf8aa178ee4630816224030b5fc&src=iqiyi.com&m=v&qd_src=ih5&qd_tm=1472152204438&qd_ip=183.16.33.154&qd_sc=8c8cf68662b9a59e7c5508a86664bca9&qd_uid=0&dis_src=vrs&ip=183.16.33.154&uuid=a0a0dc4-57bf428c-d&qypid=526648900_31"></video>
+<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=c0322nwixf9&tiny=0&auto=0" allowfullscreen></iframe>
 
 比起大多数 MV 堆视觉效果和歌手表演，五月天的 MV 更注重叙事性，一首 MV 往往有一个相对完整、与歌曲本身相契合的故事，配合 MV 听歌更能体会歌曲表达的内容和情感。
 
