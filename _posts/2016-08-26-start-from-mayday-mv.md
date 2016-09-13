@@ -8,7 +8,9 @@ tags: Life
 
 <!--more-->
 
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=c0322nwixf9&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/YKiMrg6rgYQ" frameborder="0" allowfullscreen></iframe>
+
+上面放的是五月天「顽固」在 YouTube 上的 MV。如果你不能播放，请访问 [音悦台的 MV][mv]。
 
 比起大多数 MV 堆视觉效果和歌手表演，五月天的 MV 更注重叙事性，一首 MV 往往有一个相对完整、与歌曲本身相契合的故事，配合 MV 听歌更能体会歌曲表达的内容和情感。
 
@@ -19,3 +21,4 @@ tags: Life
 我听过的歌非常少，看过的 MV 也非常少，如果你对这个话题有兴趣欢迎跟我讨论。
 
 [arrc]: http://www.arrc.tw/
+[mv]: http://www.iqiyi.com/v_19rrlxrpyg.html
