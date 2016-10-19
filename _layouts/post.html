@@ -52,6 +52,10 @@
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% else %}
       <section id="disqus_thread">评论系统被墙，可以发邮件到 <a href="mailto:onlyice0328@gmail.com" target="_blank">onlyice0328@gmail.com</a> 与我交流。</section>
+      <script src="https://carnivalapp.io/sites/572/init.js"></script>
+      <script>
+        document.addEventListener("DOMContentLoaded", Carnival.init);
+      </script>
     {% endif %}
     {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
   </article>
