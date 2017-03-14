@@ -18,9 +18,9 @@ ES6 给 JS 带来了很多很棒的语言特性（有很多 Python 的影子）�
 
 比如这个 [Destructuring assignment][destructuring-assignment] + [Rest parameters][rest-parameters] + [Spread syntax][spread-syntax] combo，实在是太太太灵活了，我不知道有几个人吃得消。destructuring 这个理念挺好，可是这里还能设默认值是几个意思：
 
-```js
+{% highlight javascript %}
 var fun = ({a, b} = {a: 1, b: 3}) => a+b;
-```
+{% endhighlight %}
 
 Spread 操作符即可以展开 array 也可以展开 Object，感觉做过了。JS 的 Object 本来就让人感觉各种奇怪，而且在这种用原型链的复杂数据结构里，搞一个 spread 操作感觉真心不直观。
 
@@ -28,14 +28,14 @@ Spread 操作符即可以展开 array 也可以展开 Object，感觉做过了�
 
 再然后，不得不吐槽一下 webpack 对 `import` 语法的滥用。本来 JS 语言特性就乱成一团，结果 webpack 一掺和更是乱得不行，强行让 import 多了很多功能。import 不仅可以加载 JS 模块，还能加载 CSS 样式，加载 SVG 文件，甚至还能加载 JSON 文件！万物皆可 import 吗。
 
-```js
+{% highlight javascript %}
 import React from 'react';
 import _ from 'lodash';
 import Highlighter from 'react-highlight-words';
 
 import './App.css';
 import data from './data.json';
-```
+{% endhighlight %}
 
 JS 在变得越来越灵活，需要很多 best practice 才能用好，在这点上真的不如 Python。
 
@@ -89,6 +89,6 @@ React 写起来还是没有当时 Vue.js 那种简单粗暴的快感，不过感
 
 [destructuring-assignment]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 [rest-parameters]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
-[spread-syntax] :https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator
+[spread-syntax]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator
 [elm]: http://elm-lang.org/
 [graph-ql]: http://graphql.org/
