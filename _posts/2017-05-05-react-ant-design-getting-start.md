@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "React + Ant Design Getting Start"
+title: "React + Ant Design 快速上手"
 tags: JavaScript
 ---
-
-# React + Ant Design 快速上手
 
 ## 背景及目标
 
