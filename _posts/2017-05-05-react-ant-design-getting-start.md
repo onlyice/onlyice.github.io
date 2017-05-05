@@ -43,63 +43,13 @@ Ant Design 的优点：
 
 JavaScript 语言有几版：
 
-<table>
-
-<tbody>
-
-<tr class="evenRow">
-
-<th align="left">规范</th>
-
-<th align="left">时间</th>
-
-<th align="left">支持程度</th>
-
-</tr>
-
-<tr class="oddRow">
-
-<th align="left">ECMAScript 3 (ES3)</th>
-
-<td align="left">December 1999</td>
-
-<td align="left">广泛支持</td>
-
-</tr>
-
-<tr class="evenRow">
-
-<th align="left">ECMAScript 5 (ES5)</th>
-
-<td align="left">December 2009</td>
-
-<td align="left">[ES5 Compatibility Table](https://kangax.github.io/compat-table/es5/)</td>
-
-</tr>
-
-<tr class="oddRow">
-
-<th align="left">ECMAScript 6 (ES6) / ECMAScript 2015 (ES2015)</th>
-
-<td align="left">June 2015</td>
-
-<td align="left">[ES6 Compatibility Table](https://kangax.github.io/compat-table/es6/)</td>
-
-</tr>
-
-<tr class="evenRow">
-
-<th align="left">ECMAScript 7 (ES7) / ECMAScript 2016 (ES2016)</th>
-
-<td align="left">June 2016</td>
-
-<td align="left">[ES.Next Compatibility Table](https://kangax.github.io/compat-table/es2016plus/)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+|-----+------+---------|
+| 规范 | 时间 | 支持程度 |
+|:-----|:----|:---------|
+| ECMAScript 3 (ES3) | December 1999 | 广泛支持 |
+| ECMAScript 5 (ES5) | December 2009 | [ES5 Compatibility Table](https://kangax.github.io/compat-table/es5/) |
+| ECMAScript 6 (ES6) / ECMAScript 2015 (ES2015) | June 2015 | [ES6 Compatibility Table](https://kangax.github.io/compat-table/es6/) |
+| ECMAScript 7 (ES7) / ECMAScript 2016 (ES2016) | June 2016 | [ES.Next Compatibility Table](https://kangax.github.io/compat-table/es2016plus/) |
 
 其中比较关键的节点是 ES6 (ES2015)，加入了非常多的特性，更容易写 JS 代码的同时也引入了很多复杂度。对于 React 只需要了解 ES6 中的部分特性即可，但是 ES5 及之前的 JS 基础是需要掌握的。
 
@@ -200,7 +150,6 @@ JS 太垃圾不方便，但是有个非常好用的 [Lodash](https://lodash.com/
 
 1.  `yarn add lodash`
 2.  `import _ from 'lodash'`
-3.  `_.after(...)`
 
 ### 如何找合适的第三方库？
 
