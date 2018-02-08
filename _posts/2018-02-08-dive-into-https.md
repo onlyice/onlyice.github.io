@@ -19,7 +19,7 @@ HTTPS 可以解决的一些常见问题：
 
 浏览器中一些高级的 API，只能在 HTTPS 网站上使用，如 Geography、push notifications。HTTP2 要求有 HTTPS。
 
-<!-- more -->
+<!--more-->
 
 ## 历史
 
