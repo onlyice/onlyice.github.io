@@ -180,11 +180,11 @@ Session Resumption 使得第二次 TLS 握手可以只用 1 个 RTT，但是第�
 
 * Certificate Revocation List (CRL)，即 CA 维护一个庞大的已被回收的证书列表，由客户端定时更新
 * Online Certificate Status Protocol (OCSP)，即 CA 提供一个服务，让客户端可以实时查某个证书的吊销情况
-* OCSP Stamping，下面详述
+* OCSP Stapling，下面详述
 
 前两种存在的问题，可以自行考虑，[这里](https://hpbn.co/transport-layer-security-tls/#certificate-revocation-list-crl) 也给出了一些看法。
 
-OCSP Stamping 是由 server 定时向 CA 发起 OCSP 请求，并附在 ServerHello 回给客户端，而不是由客户端发起。CA 给的 OCSP 回包会用它的私钥加密，这样 client 拿到这份 OCSP 回包时，可以校验出是 CA 给的。这样有几个好处 client 不直接发 OCSP 给 CA，不会暴露访问历史，不需要自己等待 CA 给回复。
+OCSP Stapling 是由 server 定时向 CA 发起 OCSP 请求，并附在 ServerHello 回给客户端，而不是由客户端发起。CA 给的 OCSP 回包会用它的私钥加密，这样 client 拿到这份 OCSP 回包时，可以校验出是 CA 给的。这样有几个好处 client 不直接发 OCSP 给 CA，不会暴露访问历史，不需要自己等待 CA 给回复。
 
 在 WireShark 观察的相关数据如下：
 
