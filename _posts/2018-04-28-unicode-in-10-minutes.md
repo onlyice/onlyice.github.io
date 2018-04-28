@@ -36,7 +36,8 @@ Code point 只是 Unicode 字典中的地址，但是计算机间交换数据，
 
 UTF-8 是个变长的编码格式，观察这几个字符的 UTF-8 编码：
 
-|!Charater |!UTF-8 |
+|Charater |UTF-8 |
+|:------ |:----- |
 |A |0x41 |
 |ñ |0xC3B1 |
 |中 |0xE4B8AD |
