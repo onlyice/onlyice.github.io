@@ -56,5 +56,3 @@ UTF-8 是个变长的编码格式，观察这几个字符的 UTF-8 编码：
 * [Code point - Wikipedia](https://www.wikiwand.com/en/Code_point)
 * [Plane_(Unicode) - Wikipedia](https://www.wikiwand.com/en/Plane_(Unicode))
 * [Unicode/Character reference/10000-10FFF](https://en.wikibooks.org/wiki/Unicode/Character_reference/10000-10FFF)
-
-我的博客即将搬运同步至腾讯云+社区，邀请大家一同入驻：https://cloud.tencent.com/developer/support-plan?invite_code=3br2qmj5kp44g 。
