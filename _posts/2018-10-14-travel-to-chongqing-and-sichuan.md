@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "2018 重庆四川游"
-image:
-  background: 
 tags: 
 ---
 
