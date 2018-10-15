@@ -4,7 +4,7 @@ title: "2018 重庆四川游"
 tags: 
 ---
 
-这是一篇无聊的游记，为的是以后其他人提起这次旅游时，我不会觉得「咦，这是我来过的地方吗」。照片拍的很少，也没有好好拍，很多图还是盗的别人的。
+第一次写游记。流水帐居多，有些图片是盗别人的。
 
 <!--more-->
 
@@ -24,11 +24,11 @@ tags:
 
 早上起来在酒店附近吃了个当地小吃，碗杂面，上个图感受一下：
 
-![]({{ site.url }}/images/2018/10/cq-wanzhamian.png.png)
+![]({{ site.url }}/images/2018/10/cq-wanzhamian.png)
 
 早餐吃这么个又油又辣的东西，小伙伴们纷纷表示不能接受。之后就是去地标解放碑，是个比较上流的商圈：
 
-![]({{ site.url }}/images/2018/10/cq-jiefangbei.png.png)
+![]({{ site.url }}/images/2018/10/cq-jiefangbei.png)
 
 之后走路去罗汉寺，说是「疯狂的石头」拍摄地。里面佛像比较无趣，但是摆了各多座罗汉，动作跟表情丰富，还是有些看头。
 
@@ -102,7 +102,7 @@ tags:
 
 第一天的活动范围，大致是这些地方：
 
-![]({ {site.url }}/images/2018/10/cq-day-1-map.png)
+![]({{ site.url }}/images/2018/10/cq-day-1-map.png)
 
 如果是觉得图片太丑，来 [这里](https://mp.weixin.qq.com/s/dhIHr8FkYqL8UhHLhZNY5w) 看看官媒发的图片吧。
 
@@ -136,15 +136,15 @@ tags:
 
 再然后去坐过江索道。拍了个视频，不好看不上了。过到江对面拍了几张照片：
 
-![]({{site.url}}/images/2018/10/cq-skylines-1.png)
+![]({{ site.url }}/images/2018/10/cq-skylines-1.png)
 
-![]({{site.url}}/images/2018/10/cq-skylines-2.png)
+![]({{ site.url }}/images/2018/10/cq-skylines-2.png)
 
 出发去一颗树观景台。一个人要 30 块门票，一开始大家觉得不值想走，后来「来都来了」，于是就上去看看。夜景很赞。天还没的时候拍了几张照片，黑了之后对岸灯亮了，观景台人也多了，挤不到好的位置拍照。
 
-![]({{site.url}}/images/2018/10/cq-skylines-3.png)
+![]({{ site.url }}/images/2018/10/cq-skylines-3.png)
 
-![]({{site.url}}/images/2018/10/cq-skylines-4.png)
+![]({{ site.url }}/images/2018/10/cq-skylines-4.png)
 
 晚上在「火锅英雄」取景地「洞子火锅」吃了个九宫格火锅。对吃的没什么感觉，没有图。
 
@@ -152,15 +152,15 @@ tags:
 
 动车到成都。春熙路、太古里逛街吃喝：
 
-![]({{site.url}}/images/2018/10/chengdu-street-view-1.png)
+![]({{ site.url }}/images/2018/10/chengdu-street-view-1.png)
 
 这片地方真心开阔，对比重庆狭小的道路显得大气很多。商圈的规格也挺高。
 
-![]({{site.url}}/images/2018/10/chengdu-street-view-2.png)
+![]({{ site.url }}/images/2018/10/chengdu-street-view-2.png)
 
 来到人民广场，参与中老年人健康养生活动，喝茶磕瓜子，又玩起狼人杀。作为业余法官各种出错。
 
-![]({{site.url}}/images/2018/10/chengdu-people-square.png)
+![]({{ site.url }}/images/2018/10/chengdu-people-square.png)
 
 晚上到酒店对面九眼桥的清吧吃饭。
 
@@ -168,53 +168,53 @@ tags:
 
 第 4 天早上，从成都市区出发去位于泸定县冷碛镇的华尖山。大约下午两点多到达华尖山徒步的起点，海拔 2400 米左右，需要走 7~8 公里到达山上的客栈处，海拔在 3300 米。由于准备不足，大多数团友都没有带上专业设备（鞋子、冲锋衣、登山杖等），加上天气不是特别好，这趟爬山相当艰难。山上烟雾缭绕：
 
-![]({{site.url}}/images/2018/10/huajianshan-1.png)
+![]({{ site.url }}/images/2018/10/huajianshan-1.png)
 
-![]({{site.url}}/images/2018/10/huajianshan-2.png)
+![]({{ site.url }}/images/2018/10/huajianshan-2.png)
 
 山路一开始还是比较硬的泥：
 
-![]({{site.url}}/images/2018/10/huajianshan-3.png)
+![]({{ site.url }}/images/2018/10/huajianshan-3.png)
 
 再后来就全是这种：
 
-![]({{site.url}}/images/2018/10/huajianshan-4.png)
+![]({{ site.url }}/images/2018/10/huajianshan-4.png)
 
-![]({{site.url}}/images/2018/10/huajianshan-5.png)
+![]({{ site.url }}/images/2018/10/huajianshan-5.png)
 
 我的运动鞋完全没有抵御能力，遇到很泥的路只能很小心的一步步走。到 3200 米时山上的雾气已经大得像是在拍恐怖片。一阵风吹过来没几秒，已经看不到前面的团友，能见度不到 20 米，判断其他人位置全靠喊……
 
-![]({{site.url}}/images/2018/10/huajianshan-6.png)
+![]({{ site.url }}/images/2018/10/huajianshan-6.png)
 
 爬到后面有一处观景点，刚好雾气散开了一些，能看到远处的雪山和壮观的山脉，很是漂亮，可惜拍不出来：
 
-![]({{site.url}}/images/2018/10/huajianshan-7.png)
+![]({{ site.url }}/images/2018/10/huajianshan-7.png)
 
 被客栈雇的工人瞎带路，走了非常难走的路，爬到客栈上大家都快累倒了。南方人第一次看雪的经历，贡献给了华尖山上的下的雪渣。客栈往下望是这样：
 
-![]({{site.url}}/images/2018/10/huajianshan-8.png)
+![]({{ site.url }}/images/2018/10/huajianshan-8.png)
 
 睡的地方是 10 米大通铺，吃完饭后大家又冷又饿，开始钻被窝，这个时候只是晚上七点半：
 
-![]({{site.url}}/images/2018/10/huajianshan-9.png)
+![]({{ site.url }}/images/2018/10/huajianshan-9.png)
 
 8 点客栈发电机关闭，灯光熄灭了，呼噜声开始传来。我也难得地 8 点开始睡觉。但是睡到半夜 2 点就睡不着。间接让我判断出自己只需要睡 6 小时。晚上全是雾，
 
 第二天大家早早起来，吃完早饭后下山。早上气温比较低，但是反而路比较硬更好走。
 
-![]({{site.url}}/images/2018/10/huajianshan-10.png)
+![]({{ site.url }}/images/2018/10/huajianshan-10.png)
 
 也开始有心情拍一些照片：
 
-![]({{site.url}}/images/2018/10/huajianshan-11.png)
+![]({{ site.url }}/images/2018/10/huajianshan-11.png)
 
-![]({{site.url}}/images/2018/10/huajianshan-12.png)
+![]({{ site.url }}/images/2018/10/huajianshan-12.png)
 
-![]({{site.url}}/images/2018/10/huajianshan-13.png)
+![]({{ site.url }}/images/2018/10/huajianshan-13.png)
 
 我的鞋子：
 
-![]({{site.url}}/images/2018/10/huajianshan-14.png)
+![]({{ site.url }}/images/2018/10/huajianshan-14.png)
 
 顺利下山，回到成都市区。总的来说是次很有趣的体验。可惜日照金山和星空都没有看到。而且也第一次感受到，在没有开发过的景区爬山探险，还是挺危险的事情。
 
