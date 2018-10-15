@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "从 Jonathan Blow 的故事说起"
+image:
+  background: 2018/10/braid-cover.png
 tags: 
 ---
 
