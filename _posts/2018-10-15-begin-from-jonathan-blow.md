@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信仰"
+title: "从 Jonathan Blow 的故事说起"
 image:
   background: {{ site.image_cdn }}/images/2018/10/braid-cover.png
 tags: 
