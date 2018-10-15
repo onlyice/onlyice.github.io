@@ -4,7 +4,7 @@ title: 阅读 coursera-dl 源码
 tags: [Python]
 ---
 
-![Coursera Logo]({{ image_cdn }}/images/2015/07/coursera.png)
+![Coursera Logo]({{ site.image_cdn }}/images/2015/07/coursera.png)
 
 [coursera-dl][] 是一个 GitHub 上的开源项目，用于方便地下载 coursera 上的课程资源（视频、字幕、幻灯片）等。
 

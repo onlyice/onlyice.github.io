@@ -4,7 +4,7 @@ title: 在深圳的 0x10 天
 tags: [Life]
 ---
 
-![Tencent Building]({{ image_cdn }}/images/2013/03/shenzhen.jpg)
+![Tencent Building]({{ site.image_cdn }}/images/2013/03/shenzhen.jpg)
 
 这阵子没有学太多技术的东西，所以写这篇东西聊聊近况。
 

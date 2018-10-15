@@ -4,7 +4,7 @@ title: "A Tour to Modern JavaScript Development"
 tags: JavaScript
 ---
 
-![JS World]({{ image_cdn }}/images/2017/03/js-world.png)
+![JS World]({{ site.image_cdn }}/images/2017/03/js-world.png)
 
 这篇文章描述一个后端程序员看到的难以理解的前端世界。我对前端理解不深，这篇文章大多数内容是吐槽向。如果你对现代前端的开发没有了解，可以先看看 HackerNoon 上的这篇 [文章][js-2017]。如果你想看更猛烈的吐槽，参考这篇「[在 2016 年学 JavaScript 是一种什么样的体验？](https://zhuanlan.zhihu.com/p/22782487)」。
 

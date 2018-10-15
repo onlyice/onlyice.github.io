@@ -84,7 +84,7 @@ b'GIF89a+\x02\xe6\x00'
 
 ## Basic Encoders/Decoders
 
-![different-encodings]({{ image_cdn }}/images/2016/06/different-encodings.png)
+![different-encodings]({{ site.image_cdn }}/images/2016/06/different-encodings.png)
 
 这个图可以看出，有些编码格式（如 ascii, gb2312）并不能编码全部的字符，这也是产生 `UnicodeEncodeError` / `UnicodeDecodeError` 的主要原因。Python 提供了一些参数，用来指定编解码失败时的行为：
 
@@ -214,7 +214,7 @@ Python 标准库 locale 对于地区相关的字符串排序做得并不好，�
 
 Unicode 数据库包罗万像，它不仅知道一个符号和它对应的含义，还知道这个符号是不是能打印的、是不是数字、是不是组合字符等。Python 标准库 unicodedata 可以解读这些信息，下面的图是用一段 Python 程序生成的，最后两列分别是 `unicodedata.numeric(char)` 和 `unicodedata.name(char)` 的结果：
 
-![unicode-database]({{ image_cdn }}/images/2016/06/unicode-database.png)
+![unicode-database]({{ site.image_cdn }}/images/2016/06/unicode-database.png)
 
 ## Dual-Mode str and bytes APIs
 

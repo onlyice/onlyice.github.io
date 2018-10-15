@@ -4,7 +4,7 @@ title: "数据备份"
 tags: [Management]
 ---
 
-![data]({{ image_cdn }}/images/2016/03/data.jpg)
+![data]({{ site.image_cdn }}/images/2016/03/data.jpg)
 
 数据备份的重要性，被断电/误删/电脑死机搞丢过文档的童鞋应该都懂。这篇文章描述下我的数据备份解决方案。
 

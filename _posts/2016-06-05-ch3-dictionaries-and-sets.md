@@ -156,7 +156,7 @@ TypeError: unsupported operand type(s) for &: 'set' and 'list'
 
 `dict` 和 `set` 都用了哈希表作为其底层实现。
 
-![dict-hashtable-flowchart]({{ image_cdn }}/images/2016/06/dict-hashtable-flowchart.png)
+![dict-hashtable-flowchart]({{ site.image_cdn }}/images/2016/06/dict-hashtable-flowchart.png)
 
 ### Key 需要是 hashable 的
 

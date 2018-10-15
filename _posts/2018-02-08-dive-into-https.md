@@ -39,7 +39,7 @@ HTTPS 虽然叫 HTTP over SSL (Secure Sockets Layer)，但是现在看到的都�
 
 下面描述相对完整的过程。一个完整握手（full handshake）的时序图如下：
 
-![full-tls-handshake]({{ image_cdn }}/images/2018/02/full-tls-handshake.png)
+![full-tls-handshake]({{ site.image_cdn }}/images/2018/02/full-tls-handshake.png)
 
 1. ClientHello 时，client 告诉服务器它支持的 TLS 版本、Cipher Suites、SNI（Server Name Indication，后面详述）等信息
 2. ServerHello 时，server 选择一个 TLS 版本和 chiper suite，并发送证书给 client
@@ -69,11 +69,11 @@ TLS 主要有两种类型的 handshake：
 
 例如 CluodFlare 用的就是非 RSA 证书，公钥使用的是 ECDSA 算法：
 
-![cloudflare-certificate]({{ image_cdn }}/images/2018/02/cloudflare-certificate.png)
+![cloudflare-certificate]({{ site.image_cdn }}/images/2018/02/cloudflare-certificate.png)
 
 而 GitHub 使用的就是 RSA 证书：
 
-![github-certificate]({{ image_cdn }}/images/2018/02/github-certificate.png)
+![github-certificate]({{ site.image_cdn }}/images/2018/02/github-certificate.png)
 
 ### Forward Secrecy
 
@@ -107,11 +107,11 @@ Client 发起 TLS handshake 时，怎样判断 server 不是中间人扮演的�
 
 证书由 CA（Certificate Authority，数字证书认证机构）颁发。而 CA 又分 intermediate CA 和 root CA，一般网站的证书由 intermediate CA 颁发，而 intermediate CA 的证书则由根证书颁发。root CA 的证书则是自已颁发给自己（self-sign）：
 
-![chain-of-trust]({{ image_cdn }}/images/2018/02/chain-of-trust.png)
+![chain-of-trust]({{ site.image_cdn }}/images/2018/02/chain-of-trust.png)
 
 举个例子，google.com.hk 的证书路径：
 
-![certificate-path]({{ image_cdn }}/images/2018/02/certificate-path.png)
+![certificate-path]({{ site.image_cdn }}/images/2018/02/certificate-path.png)
 
 其中 Google Internet Authority 是 intermediate CA，GlobalSign 则是 root CA。
 
@@ -127,17 +127,17 @@ TLS 只是一层加密层，它承载的应用数据可以是各种各样，不�
 
 下面是用 WireShark 抓包的一个例子。ClientHello 中，Chrome 表示它接受 HTTP2 和 HTTP 1.1：
 
-![client-alpn]({{ image_cdn }}/images/2018/02/client-alpn.png)
+![client-alpn]({{ site.image_cdn }}/images/2018/02/client-alpn.png)
 
 ServerHello 中，server 表示它选择了 HTTP2：
 
-![server-alpn]({{ image_cdn }}/images/2018/02/server-alpn.png)
+![server-alpn]({{ site.image_cdn }}/images/2018/02/server-alpn.png)
 
 ## SNI
 
 SNI (Server Name Indication) ，是一个 TLS Extension，在 ClientHello 中可以看到它的身影：
 
-![sni]({{ image_cdn }}/images/2018/02/sni.png)
+![sni]({{ site.image_cdn }}/images/2018/02/sni.png)
 
 由于 TLS 握手发生在实际的 HTTP 请求之前，web server 还无法通过 HTTP 头中的 Host 字段来判断用户访问的是哪个网站，因此需要通过 TLS 协议带过去。对于一个 IP 部署多个网站的情况，不同的网站往往使用不同的证书，web server 需要通过 SNI 它才可以判断给哪个证书。
 
@@ -153,7 +153,7 @@ TLS 性能调优这块，强烈推荐看看 High Performance Browser Networking 
 
 第一种机制是，服务端提供一个 session ID 给客户端，并缓存相应的握手信息。客户端下一次连接握手时带上 session ID，如果服务端查到该 ID 的相关握手信息，则可以省去一个完整的 session negotiation，直接用上次的对称密钥做通信。这样节省掉 1 个 RTT：
 
-![abbreviated-tls-handshake]({{ image_cdn }}/images/2018/02/abbreviated-tls-handshake.png)
+![abbreviated-tls-handshake]({{ site.image_cdn }}/images/2018/02/abbreviated-tls-handshake.png)
 
 Session ID 的问题是，现代大规模的网站往往前面有多机做负载均衡，比如多台 nginx 在前端做 TLS 相关的工作，再把请求转发到后端逻辑 server。这样导致 Session ID 的缓存需要能被多台 nginx 访问，带来了额外的运维成本。于是 TLS 给出第二种机制，session ticket，用来解决这个问题。
 
@@ -163,7 +163,7 @@ Session ticket 其实很简单，就是把服务端缓存挪到客户端。Sessi
 
 TLS False Start 是 Google 提出来的一项优化，用来减少 TLS 握手的时延。原理是 client 发送 CipherChangeSpec 后立刻发送应用层数据：
 
-![tls-false-start]({{ image_cdn }}/images/2018/02/tls-false-start.png)
+![tls-false-start]({{ site.image_cdn }}/images/2018/02/tls-false-start.png)
 
 TLS False Start 需要浏览器跟 server 都支持，比如：
 
@@ -188,7 +188,7 @@ OCSP Stapling 是由 server 定时向 CA 发起 OCSP 请求，并附在 ServerHe
 
 在 WireShark 观察的相关数据如下：
 
-![ocsp-stamping]({{ image_cdn }}/images/2018/02/ocsp-stamping.png)
+![ocsp-stamping]({{ site.image_cdn }}/images/2018/02/ocsp-stamping.png)
 
 ## 前端相关
 
