@@ -58,3 +58,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "R
 
 # Custom settings
 excerpt_separator: <!--more-->
+image_cdn: https://blog-1251140025.cos.ap-guangzhou.myqcloud.com

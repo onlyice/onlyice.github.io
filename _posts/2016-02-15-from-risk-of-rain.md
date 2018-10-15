@@ -4,7 +4,7 @@ title: 从 Risk of Rain 说起
 tags: [Life]
 ---
 
-![Risk of Rain Logo]({{ site.url }}/images/2016/02/risk-of-rain.jpg)
+![Risk of Rain Logo]({{ image_cdn }}/images/2016/02/risk-of-rain.jpg)
 
 春节玩了挺长时间的 [Risk of Rain][risk-of-rain-steam]，有了一些思考。
 

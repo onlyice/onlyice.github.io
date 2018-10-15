@@ -4,7 +4,7 @@ title: "「奇特的一生」读后感"
 tags: Reading
 ---
 
-![a-peculiar-life-cover]({{ site.url }}/images/2016/06/a-peculiar-life-cover.jpg)
+![a-peculiar-life-cover]({{ image_cdn }}/images/2016/06/a-peculiar-life-cover.jpg)
 
 之前在读李笑来的「[把时间当作朋友][1]」时，书中提到了「[奇特的一生][2]」这本书中描述的柳比歇夫的“时间统计法”。前天几翻看 GitHub 仓库时，发现有人按时间统计法的理念做了个 [看起来很赞的工具][3]，于是诱发了我去看看这本「奇特的一生」的念头。
 

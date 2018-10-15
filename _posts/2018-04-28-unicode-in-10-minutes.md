@@ -20,7 +20,7 @@ Unicode 的全部字符，分为 17 个 plane（字符平面）存放，plane �
 
 把上面几个概念串起来，就是这幅图：
 
-![unicode-at-a-glance]({{ site.url }}/images/2018/04/unicode-at-a-glance.png)
+![unicode-at-a-glance]({{ image_cdn }}/images/2018/04/unicode-at-a-glance.png)
 
 Unicode 像一本字典，每一页纸是一个 plane，每一页里面又分了很多块。Code point 是唯一找到一个字的方法，类似地址。
 
@@ -28,7 +28,7 @@ Unicode 像一本字典，每一页纸是一个 plane，每一页里面又分了
 
 Code point 只是 Unicode 字典中的地址，但是计算机间交换数据，并不以这个地址为准，而是发明了编码（encoding）系统，比如 ASCII、GBK、UTF-8 等。编码系统做的是，把一个字符（也就是它的 code point）跟一个二进制表示关联起来，可以互相转换，比如：
 
-![different-encodings]({{ site.url }}/images/2018/04/different-encodings.png)
+![different-encodings]({{ image_cdn }}/images/2018/04/different-encodings.png)
 
 比如机器 A，想向机器 B 传输一段 "Hello World"，它必须跟 B 约定好用某一种编码格式对这个字符串做编码，然后再将这串数据，编码成相应的二进制数据。如果用 ASCII 编码，最终传过去的数据，用十六进制表示就是 `48656C6C6F20576F726C64`。
 
