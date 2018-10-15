@@ -128,8 +128,6 @@ tags:
 
 ![]({{ site.image_cdn }}/images/2018/10/cq-lanyu-1.png)
 
-![]({{ site.image_cdn }}/images/2018/10/cq-lanyu-2.png)
-
 在这里开了几把狼人杀，大家迅速上瘾，变成后面的日常娱乐。
 
 ![]({{ site.image_cdn }}/images/2018/10/cq-lanyu-3.png)
