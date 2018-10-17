@@ -6,7 +6,7 @@ image:
 tags: 
 ---
 
-<iframe src="https://www.g-cores.com/radios/95312/embed" width="480" height="400" allowtransparency="true" border="0" frameborder="0" style="width:600px;height:400px;"></iframe>
+<iframe src="https://www.g-cores.com/radios/95312/embed" width="600" height="550" allowtransparency="true" border="0" frameborder="0" style="width:600px;height:550px;"></iframe>
 
 这是我今年听过最好的播客节目。没有之一。[重轻老师](https://www.g-cores.com/users/31418) 真心是知识渊博又很有感染力，上回听他讲西部世界也听得我激动万分。这次讲 Jonathan Blow 的故事，也是太太精彩了……
 
