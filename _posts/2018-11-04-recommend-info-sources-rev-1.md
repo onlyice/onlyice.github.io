@@ -3,7 +3,8 @@ layout: post
 title: "我推荐的信息源 Rev.1"
 image:
   background: 2018/11/red-dead-redemption-2.jpeg
-tags: "Info Source"
+tags: 
+  - "Info Source"
 ---
 
 今年对内容的消费主要在播客和 Telegram 上。下面推荐一些我觉得值得一看的内容。
