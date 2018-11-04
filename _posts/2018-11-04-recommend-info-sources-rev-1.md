@@ -55,4 +55,4 @@ tags: "Info Source"
 
 ---
 
-{% include 'serials/info-source.md' %}
+{% include serials/info-source.md %}
