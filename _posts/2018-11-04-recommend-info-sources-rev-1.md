@@ -25,7 +25,7 @@ tags: "Info Source"
 少数派的好内容非常多，但是目前缺乏一种让好内容被发现的机制。大部分内容推荐都靠首页，但是首页为了普适性，给的文章中快消品和相对入门级的文章居多。而且感觉用户群仍相对小众（但核心用户多），有点担心后面缺乏盈利能力，没能再继续好好运营下去。少数派的社区氛围非常赞，会让我觉得如果我要写效率或者工具相关的文章，我只会发在少数派上。这个社区有跟我类似的人，愿意沉下心来看我的文章。
 
 [sspai]: https://sspai.com/
-[notejerk]: https://sspai.com/user/701048
+[notajerk]: https://sspai.com/user/701048
 [sspai-post1]: https://sspai.com/post/43410
 [sspai-post2]: https://sspai.com/post/45516
 [platycodon]: https://sspai.com/user/714505
@@ -44,7 +44,7 @@ tags: "Info Source"
 
 [gadio-pro]: https://www.gcores.com/categories/12
 [gadio-pro-volume-1]: https://www.gcores.com/radios/95312
-[gario-pro-volume-2]: https://www.gcores.com/radios/22137
+[gadio-pro-volume-2]: https://www.gcores.com/radios/22137
 [post-about-jonathan-blow]: {{ site.url }}/begin-from-jonathan-blow/
 
 在我看来，机核做的这档 Gadio pro 的节目质量非常高，涵盖领域广泛，host / guest 知识渊博，内容讲得深入浅出很吸引人。而且它的 show notes 形式非常好，带了图片、小短描述和外部链接，方便对内容有兴趣的人延伸阅读，同时你也很容易通过看 show notes 回想起这期节目的内容。
