@@ -45,7 +45,7 @@ tags: "Info Source"
 [gadio-pro]: https://www.gcores.com/categories/12
 [gadio-pro-volume-1]: https://www.gcores.com/radios/95312
 [gario-pro-volume-2]: https://www.gcores.com/radios/22137
-[post-about-jonathan-blow]: {{ site.url}/begin-from-jonathan-blow/
+[post-about-jonathan-blow]: {{ site.url }}/begin-from-jonathan-blow/
 
 在我看来，机核做的这档 Gadio pro 的节目质量非常高，涵盖领域广泛，host / guest 知识渊博，内容讲得深入浅出很吸引人。而且它的 show notes 形式非常好，带了图片、小短描述和外部链接，方便对内容有兴趣的人延伸阅读，同时你也很容易通过看 show notes 回想起这期节目的内容。
 
