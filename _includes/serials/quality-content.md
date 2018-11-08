@@ -1,4 +1,4 @@
-这个系列会持续推荐我觉得好的信息源：
+这个系列会持续推荐我认为的好内容：
 
 <ul>
     {% for post in site.tags["Quality Content"] %}{% if post.title != null %}
