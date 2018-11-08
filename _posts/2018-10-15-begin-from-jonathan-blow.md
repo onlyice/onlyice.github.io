@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "从 Jonathan Blow 的故事说起"
+description: "时隔数年，我终于搞懂 Braid 想表达什么。听完这期 Gadio pro，很多人留言表示要辞职做真正的好游戏。"
 image:
   background: 2018/10/braid-cover.png
 tags: 

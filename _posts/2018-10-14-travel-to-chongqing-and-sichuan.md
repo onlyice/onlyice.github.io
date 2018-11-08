@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2018 重庆四川游"
+description: "流水帐加拍得不好的照片。"
 tags: 
 ---
 

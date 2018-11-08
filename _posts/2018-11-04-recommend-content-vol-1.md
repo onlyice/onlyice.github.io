@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "我推荐的信息源 Rev.1"
+title: "我推荐的好内容 Vol.1: 少数派、Gadio pro"
+description: "开启一个新系列，每期分享 2 个我认为的好内容。这期讲讲少数派和 Gadio pro。"
 image:
   background: 2018/11/red-dead-redemption-2.jpeg
 tags: 
-  - "Info Source"
+  - "Quality Content"
 ---
 
-今年对内容的消费主要在播客和 Telegram 上。下面推荐一些我觉得值得一看的内容。
+开启一个新系列，每期分享 2 个我认为的好内容。
 
 <!--more-->
 
@@ -56,4 +57,4 @@ tags:
 
 ---
 
-{% include serials/info-source.md %}
+{% include serials/quality-content.md %}
