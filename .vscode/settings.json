@@ -1,6 +1,3 @@
 {
-    "pasteImage.path": "${projectRoot}/images/2018/10",
-    "pasteImage.basePath": "${projectRoot}",
-    "pasteImage.prefix": "{{site.image_cdn}}/",
-    "pasteImage.defaultName": "-",
+    "pasteImage.path": "../images/2018/10"
 }
