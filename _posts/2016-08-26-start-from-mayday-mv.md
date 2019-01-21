@@ -8,7 +8,7 @@ tags:
 
 <!--more-->
 
-{% include youtube.html link='https://www.youtube.com/embed/YKiMrg6rgYQ' %}
+{% include widgets/youtube.html link='https://www.youtube.com/embed/YKiMrg6rgYQ' %}
 
 上面放的是五月天「顽固」在 YouTube 上的 MV。如果你不能播放，请访问 [音悦台的 MV][mv]。
 
