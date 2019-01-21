@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "A Tour to Modern JavaScript Development"
-tags: JavaScript
+tags: 
+- Computer Science
 ---
 
 ![JS World]({{ site.image_cdn }}/images/2017/03/js-world.png)

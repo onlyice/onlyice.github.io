@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "十分钟理解 Unicode"
-tags: Life
+tags: 
+- Computer Science
 ---
 
 Unicode 是目前处理多语言字符的标准方式。有几个概念需要理解：

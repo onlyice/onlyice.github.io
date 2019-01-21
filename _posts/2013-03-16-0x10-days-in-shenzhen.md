@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在深圳的 0x10 天
-tags: [Life]
+tags: 
 ---
 
 ![Tencent Building]({{ site.image_cdn }}/images/2013/03/shenzhen.jpg)

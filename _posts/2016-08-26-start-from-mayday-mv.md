@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "从五月天 MV 说起"
-tags: Life
+tags: 
 ---
 
 今年五月天的新专辑出来后，我并不急着听，而是想等 MV 出来再听。他们的上一张专辑《第二人生》有一些 MV 质量非常高，比如「干杯」「星空」「第二人生」，几乎每一首歌都有高质量的 MV，让我对今年专辑的 MV 也有一些期待。
 
 <!--more-->
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/YKiMrg6rgYQ" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html link='https://www.youtube.com/embed/YKiMrg6rgYQ' %}
 
 上面放的是五月天「顽固」在 YouTube 上的 MV。如果你不能播放，请访问 [音悦台的 MV][mv]。
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 阅读 coursera-dl 源码
-tags: [Python]
+tags: 
 ---
 
 ![Coursera Logo]({{ site.image_cdn }}/images/2015/07/coursera.png)

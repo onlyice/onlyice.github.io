@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "React + Ant Design 快速上手"
-tags: JavaScript
+tags: 
+- Computer Science
 ---
 
 ## 背景及目标

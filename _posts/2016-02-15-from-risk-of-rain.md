@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从 Risk of Rain 说起
-tags: [Life]
+tags: Gaming
 ---
 
 ![Risk of Rain Logo]({{ site.image_cdn }}/images/2016/02/risk-of-rain.jpg)

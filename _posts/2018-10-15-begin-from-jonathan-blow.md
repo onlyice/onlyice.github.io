@@ -5,6 +5,7 @@ description: "时隔数年，我终于搞懂 Braid 想表达什么。听完这�
 image:
   background: 2018/10/braid-cover.png
 tags: 
+- Gaming
 ---
 
 <iframe src="https://www.gcores.com/radios/95312/embed" width="600" height="550" allowtransparency="true" border="0" frameborder="0" style="width:600px;height:550px;"></iframe>
