@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How iterables
+title: 一篇文章看懂 Python iterable, iterator 和 generator
 description: "iterable, iterator 和 generator 究竟是什么，又有什么关系？"
 image:
   background: 2019/04/lighthouse.jpg
