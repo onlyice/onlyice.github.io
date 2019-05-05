@@ -13,7 +13,23 @@ tags:
 比如你报名参加了 [Interactive Programming in Python][interactive-programming-in-python]，你可以用 `coursera-dl` 工具下载它的全部资源：
 
 {% highlight bash %}
+> $ cours{% highlight bash %}
 > $ coursera-dl -u your_coursera_email -p your_coursera_password interactivepython1-003
+downloading...
+> $ tree interactivepython1-003
+interactivepython1-003
+└── 01_Week_0a_-_Expressions
+    ├── 01_Introduction_14-29.mp4
+    ├── 01_Introduction_14-29.srt
+    ├── 01_Introduction_14-29.txt
+    ├── 02_CodeSkulptor_11-22.mp4
+    ├── 02_CodeSkulptor_11-22.srt
+    ├── 02_CodeSkulptor_11-22.txt
+    ├── 03_Arithmetic_expressions_13-24.mp4
+    ├── 03_Arithmetic_expressions_13-24.srt
+    └── 03_Arithmetic_expressions_13-24.txt
+{% endhighlight %}
+era-dl -u your_coursera_email -p your_coursera_password interactivepython1-003
 downloading...
 > $ tree interactivepython1-003
 interactivepython1-003
