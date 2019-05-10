@@ -15,7 +15,7 @@ tags:
 
 ### [Algorithms by Jeff Erickson][algorithm-jeff]
 
-![algorithm-jeff]({{ site.image_cdn }}/images/2019/05/algorithm-by-jeff-cover.png)
+<img src="{{ site.image_cdn }}/images/2019/05/algorithm-by-jeff-cover.png" alt="algorithm-jeff" width="250"/>
 
 当你有这些精美的插图来解释算法，甚至连习题都是这么精心准备时，有什么理由去看干巴巴的伪代码和公式呢？
 
@@ -27,7 +27,7 @@ tags:
 
 ### [Algorithms 4th Edition][algorithm-princeton]
 
-![algorithm-princeton]({{ site.image_cdn }}/images/2019/05/algorithm-princeton-cover.png)
+<img src="{{ site.image_cdn }}/images/2019/05/algorithm-princeton-cover.png" alt="algorithm-princeton" width="250"/>
 
 这本来自普林斯顿大学的算法书，制作非常精良，不仅图片精致好看，同时也带了 Java 代码实现。
 
@@ -47,19 +47,19 @@ tags:
 
 ### [High Performance Browser Networking][hpbn]
 
-![hpbn-cover]({{ site.image_cdn }}/images/2019/05/hpbn-cover.jpg)
+<img src="{{ site.image_cdn }}/images/2019/05/hpbn-cover.jpg" alt="hpbn-cover" width="250"/>
 
 浏览下它讲 [TLS][hpbn-tls] 的这一章，你大概就知道为什么我会推荐它。
 
 ### [Designing Data-Intensive Applications][ddia]
 
-![data-intensive-cover]({{ site.image_cdn }}/images/2019/05/data-intensive-cover.png)
+<img src="{{ site.image_cdn }}/images/2019/05/data-intensive-cover.png" alt="data-intensive-cover" width="250"/>
 
 这本书可以说是 2018 年到现在 O'Reilly 最火的一本书了。真正做到了 dig deeper than buzzwords，带你走一遍常见的数据系统，对比各自优劣和适用场景。
 
 ### [Fluent Python][fluent-python]
 
-![fluent-python]({{ site.image_cdn }}/images/2019/05/fluent-python.jpg)
+<img src="{{ site.image_cdn }}/images/2019/05/fluent-python.jpg" alt="fluent-python" width="250"/>
 
 我最喜爱的 Python 书。看看我在这里写的 [笔记][fluent-python-notes]，你可以看出我花了多少时间在这上面。Time well spent.
 
