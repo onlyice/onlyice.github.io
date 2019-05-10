@@ -2,7 +2,7 @@
 layout: post
 title: 今时今日，学计算机应该看什么书？
 image:
-  background: 2019/04/stellar-collision-bg.jpg
+  background: 2019/05/stellar-collision-bg.jpg
 tags: 
 - Computer Science
 ---
