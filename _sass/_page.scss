@@ -24,6 +24,17 @@ body {
 			border-bottom-style: solid;
 		}
 	}
+	// Table styling
+	table {
+		font-size: 0.8em;
+	}
+	table, th, td {
+		border: 1px dotted lighten($link-color, 50);
+		border-collapse: collapse;
+	}
+	th, td {
+		padding: 0.5em;
+	}
 }
 
 // Entry Header
