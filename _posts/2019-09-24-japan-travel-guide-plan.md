@@ -51,7 +51,7 @@ tags:
 
 <img src="{{ site.image_cdn }}/images/2019/09/qyer-planner.png" />
 
-我这次的具体行程在 [这里]。手机上也有穷游行程助手 app，可以呼起 Google 地图查询路线。
+我这次的具体行程在 [这里][my-trip]。手机上也有穷游行程助手 app，可以呼起 Google 地图查询路线。
 
 [mafengwo]: http://www.mafengwo.cn/
 [qyer]: https://www.qyer.com/
