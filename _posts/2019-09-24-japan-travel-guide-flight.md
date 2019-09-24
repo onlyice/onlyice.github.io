@@ -58,7 +58,7 @@ tags:
 * 蛇口邮轮中心出发的 [船期表和价格][shekou-ticket]，以及海天客运码头出发的 [船期表和价格][haitian-ticket]
 * 部分航班提供了提前值机和行李直挂服务。行李直挂的意思是，对于出发去机场的船次，你可以在码头就将行李托运，坐船及进入机场的过程中就不用拎着你的行李了；对于从机场出发的船次，你不用提取行李，行李直接帮你运到蛇口邮轮中心，下船再提取即可
 
-坐船的好处在于时间点确定，船上的时间短（半小时），以及如果有行李直挂带来的便利。但是如果是从香港机场出发，需要在开船前提前一小时(有托运行李)／半小时(无托运行李）到达售票柜台，这个时间还是挺长的。
+坐船的好处在于时间点确定，船上的时间短（半小时），以及如果有行李直挂带来的便利。但是如果是从香港机场出发，需要在开船前提前一小时（有托运行李）／半小时（无托运行李）到达售票柜台，这个时间还是挺长的。
 
 [hk-airport]: https://www.hongkongairport.com/sc/transport/mainland-connection/
 [hk-airport-ferry-transfer]: https://www.hongkongairport.com/sc/transport/mainland-connection/ferry-transfer.page#1
