@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 日本旅行攻略 Vol.1：行程规划篇
+title: 日本自由行攻略 Vol.1：行程规划篇
 tags: 
 - Japan Travel
 ---

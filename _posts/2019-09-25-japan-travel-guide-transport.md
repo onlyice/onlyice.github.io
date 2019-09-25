@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 日本旅行攻略 Vol.3：交通篇
+title: 日本自由行攻略 Vol.3：交通篇
 tags: 
 - Japan Travel
 ---
 
 {% include serials/japan-travel.md %}
 
-这是这一系列文章的第的三篇——交通篇。
+这是这一系列文章的第三篇——交通篇。
 
 <!--more-->
 
