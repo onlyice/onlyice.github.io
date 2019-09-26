@@ -104,3 +104,7 @@ tags:
 [jr-west-pass]: https://www.westjr.co.jp/global/sc/ticket/pass/
 [osaka-pass]: http://www.japan-osaka.cn/osp/ch/
 [kyoto-bus-pass]: https://lazyjapan.com/regions/kansai/transport/howto/kyoto.html#kyoto-city-bus&kyoto-bus-one-day-pass
+
+---
+
+讲完了交通，下一篇会讲下 [如何挑选住宿的地方]({{ site.url }}/japan-travel-guide-hotel)。
