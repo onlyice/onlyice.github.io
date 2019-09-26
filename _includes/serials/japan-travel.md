@@ -5,4 +5,4 @@
 3. [交通篇]({{ site.url }}/japan-travel-guide-transport)：理解日本国内交通，如何查询路线，以及各类通票推荐
 4. [住宿篇]({{ site.url }}/japan-travel-guide-hotel)：民宿还是酒店，订酒店渠道，入住小 Tips
 5. [日本环球影城篇]({{ site.url }}/japan-travel-guide-ucj)：哪些值得玩，怎样快速玩到热门项目
-6. [其他篇]({{ site.url }}/japan-travel-guide-misc)：如何退税，出入境注意事项，支付方式，语言等
+6. [其他篇]({{ site.url }}/japan-travel-guide-misc)：出入境注意事项，行程规划工具，如何退税，支付方式，语言等
