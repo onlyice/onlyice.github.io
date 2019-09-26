@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 日本自由行攻略 Vol.5：日本环球影城篇
+title: 日本自由行攻略 Vol.6：其他篇
 tags: 
 - Japan Travel
 ---
