@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 日本自由行攻略 Vol.2：机票篇
+description: 怎样买到便宜的国际机票？从深圳怎样来回香港机场？
 tags: 
 - Japan Travel
 ---

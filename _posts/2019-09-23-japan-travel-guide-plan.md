@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 日本自由行攻略 Vol.1：行程规划篇
+description: 去日本哪里玩？怎样做行程规划？
 tags: 
 - Japan Travel
 ---

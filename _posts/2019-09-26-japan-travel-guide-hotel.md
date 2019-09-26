@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 日本自由行攻略 Vol.4：住宿篇
+description: 住民宿还是酒店，订酒店渠道，入住小 Tips
 tags: 
 - Japan Travel
 ---
