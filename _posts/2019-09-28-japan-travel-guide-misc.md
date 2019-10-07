@@ -10,9 +10,9 @@ tags:
 
 这是这一系列文章的第六篇——其他篇。
 
-<!--more-->
-
 <img src="{{ site.image_cdn }}/images/2019/09/japan-7.jpg" />
+
+<!--more-->
 
 这篇主要讲一些零零散散的注意点。
 

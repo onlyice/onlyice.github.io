@@ -10,9 +10,12 @@ tags:
 
 这是这一系列文章的第三篇——交通篇。
 
-<!--more-->
+<figure>
+    <img src="{{ site.image_cdn }}/images/2019/09/inari-station.jpg" />
+    <figcaption>京都的伏见稻禾车站</figcaption>
+</figure>
 
-<img src="{{ site.image_cdn }}/images/2019/09/japan-4.jpg" />
+<!--more-->
 
 日本的公共交通非常方便，基本上游客想去的地方都有方便的铁路或公交可以乘坐。但是随之而来的是复杂的交通系统。下面是一张东京的铁路图：
 

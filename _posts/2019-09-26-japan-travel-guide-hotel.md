@@ -10,9 +10,9 @@ tags:
 
 这是这一系列文章的第四篇——酒店篇。
 
-<!--more-->
-
 <img src="{{ site.image_cdn }}/images/2019/09/japan-7.jpg" />
+
+<!--more-->
 
 这次在订住宿上没有下太多功夫。在京都订了 Airbnb 上的民宿，在大阪及东京则是在 Agoda 上订的酒店。
 

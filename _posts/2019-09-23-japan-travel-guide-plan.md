@@ -10,9 +10,12 @@ tags:
 
 这是这一系列文章的第一篇——行程规划篇。
 
-<!--more-->
+<figure>
+    <img src="{{ site.image_cdn }}/images/2019/09/osaka-night-view.jpg" />
+    <figcaption>在大阪梅田蓝天大厦看夜景</figcaption>
+</figure>
 
-<img src="{{ site.image_cdn }}/images/2019/09/japan-2.jpg" />
+<!--more-->
 
 ## 出行时间选择
 

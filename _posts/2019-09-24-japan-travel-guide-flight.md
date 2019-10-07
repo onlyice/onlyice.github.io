@@ -10,9 +10,12 @@ tags:
 
 这是这一系列文章的第二篇——机票篇。
 
-<!--more-->
+<figure>
+    <img src="{{ site.image_cdn }}/images/2019/09/cloud-sea.jpg" />
+    <figcaption>飞行途中的云海</figcaption>
+</figure>
 
-<img src="{{ site.image_cdn }}/images/2019/09/japan-1.jpg" />
+<!--more-->
 
 ## 如何购买国际机票？
 
