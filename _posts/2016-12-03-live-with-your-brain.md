@@ -2,7 +2,7 @@
 layout: post
 title: "Live with your brain"
 tags: 
-- Mind Hacks
+- Evolution
 ---
 
 > NOTE: 这篇文章同步发在 [知乎](https://zhuanlan.zhihu.com/p/24147306) 上
