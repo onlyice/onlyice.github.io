@@ -11,11 +11,11 @@ url: https://blog.zhiheng.io
 # Owner/author information
 owner:
   name:           onlyice
-  avatar:         avatar.png
-  bio:            "Python 程序员，热爱电影和游戏"
+  avatar:         
+  bio:            
   email:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter:        onlyice0328
   facebook:
   github:         onlyice
   stackexchange:
@@ -24,7 +24,7 @@ owner:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +ZhihengLin
+  google_plus:
 
 # Background image to be tiled on all pages
 background:
