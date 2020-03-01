@@ -1,4 +1,4 @@
-我的年度总结系列：
+我的年终总结系列：
 
 <ul>
     {% for post in site.tags["年终总结"] %}{% if post.title != null %}
