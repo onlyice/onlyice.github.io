@@ -2,7 +2,7 @@
 layout: post
 title: "React + Ant Design 快速上手"
 tags: 
-- Computer Science
+- Web 技术
 ---
 
 ## 背景及目标

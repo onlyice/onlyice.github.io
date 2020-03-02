@@ -2,7 +2,7 @@
 layout: post
 title: "A Tour to Modern JavaScript Development"
 tags: 
-- Computer Science
+- Web 技术
 ---
 
 ![JS World]({{ site.image_cdn }}/images/2017/03/js-world.png)

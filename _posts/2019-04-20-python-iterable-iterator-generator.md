@@ -5,7 +5,7 @@ description: "iterable, iterator 和 generator 究竟是什么，又有什么关
 image:
   background: 2019/04/lighthouse.jpg
 tags: 
-- Computer Science
+- Python
 ---
 
 Python 中的 iterable, iterator 以及 generator，一直是非常亲密但是难以区分的概念。nvie 有一个很好的 [帖子][nvie-post] 阐述了它们之间的关系，但是内容偏向于概括和总结，对于新手来说仍然难以理解。[Fluent Python][fluent-python-oreilly] 的第 14 章也有非常好的演绎，但是我认为它对「为什么要有这种语言特性」缺乏阐释。我试图从演变的角度，总结这些概念的来源和演化，以得到一个符合逻辑和容易理解的版本。

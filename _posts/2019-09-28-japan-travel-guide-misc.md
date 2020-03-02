@@ -3,7 +3,7 @@ layout: post
 title: 日本自由行攻略 Vol.6：其他篇
 description: 出入境注意事项，行程规划工具，如何退税，支付方式，语言等
 tags: 
-- Japan Travel
+- 旅行
 ---
 
 {% include serials/japan-travel.md %}

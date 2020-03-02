@@ -3,7 +3,7 @@ layout: post
 title: 日本自由行攻略 Vol.3：交通篇
 description: 理解日本国内交通，如何查询路线，以及各类通票推荐
 tags: 
-- Japan Travel
+- 旅行
 ---
 
 {% include serials/japan-travel.md %}

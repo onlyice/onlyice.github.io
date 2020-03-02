@@ -2,7 +2,7 @@
 layout: post
 title: "2018 重庆四川游"
 description: "流水帐加拍得不好的照片。"
-tags: 
+tags: 旅行
 ---
 
 第一次写游记。流水帐居多，有些图片是盗别人的。

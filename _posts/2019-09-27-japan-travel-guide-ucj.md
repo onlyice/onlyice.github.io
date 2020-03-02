@@ -3,7 +3,7 @@ layout: post
 title: 日本自由行攻略 Vol.5：日本环球影城篇
 description: 哪些值得玩，怎样快速玩到热门项目
 tags: 
-- Japan Travel
+- 旅行
 ---
 
 {% include serials/japan-travel.md %}
