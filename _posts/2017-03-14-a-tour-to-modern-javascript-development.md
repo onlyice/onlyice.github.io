@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Tour to Modern JavaScript Development"
+title: "现代 JavaScript 开发是怎样的？（2017）"
 tags: 
 - Web 技术
 ---
