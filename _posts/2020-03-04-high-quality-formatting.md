@@ -26,6 +26,10 @@ tags:
   border: 2px solid grey;
   padding: 5px;
 }
+.content-box p, .content-box blockquote {
+  margin-left： 16px;
+  margin-right: 16px;
+}
 </style>
 
 ## 正确使用标点符号和空格
@@ -208,7 +212,7 @@ Arch Linux 的官方仓库已经有 GoldenDict，直接安装即可。但是默�
 
 <div class="content-box">
   <p>Arch Linux 的官方仓库已经有 GoldenDict，直接安装即可。但是默认不带构词法文件，需要手动下载添加。官网的下载页有说明。</p>
-  <p><blockquote>对于中文翻译成英文的，目前还没有找到太好的办法，基本上是靠 Google Translate 翻译后再逐词研究。后面有需求时再看看有什么好办法。</blockquote></p>
+  <blockquote>对于中文翻译成英文的，目前还没有找到太好的办法，基本上是靠 Google Translate 翻译后再逐词研究。后面有需求时再看看有什么好办法。</blockquote>
 </div>
 
 虽然从语义上讲块引用并不是用来表达则含义，但是从实践角度是可以授受的。
