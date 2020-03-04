@@ -26,7 +26,7 @@ tags:
   border: 2px solid grey;
   padding: 5px;
 }
-.content-box p, .content-box blockquote {
+.content-box>p, .content-box>blockquote {
   margin-left: 16px;
   margin-right: 16px;
 }
