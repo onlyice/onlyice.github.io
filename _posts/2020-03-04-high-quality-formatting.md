@@ -27,6 +27,14 @@ tags:
 
 <!--more-->
 
+<style>
+.content-box {
+  border-radius: 3px;
+  box-shadow: 0 0 0 0, 0 6px 12px rgba(34,34,34,0.1);
+  padding: 5px;
+}
+</style>
+
 ## 正确使用标点符号和空格
 
 这是最基础也是最重要的。
@@ -71,17 +79,25 @@ tags:
 3. 把冰箱门关好
 ```
 
-渲染出来的效果如下：
+渲染出来的效果：
+
+<div class="content-box">
 
 1. 打开冰箱门
 2. 把大象放进去
 3. 把冰箱门关好
 
+</div>
+
 无序列表则是：
+
+<div class="content-box">
 
 * 语文
 * 数学
 * 英语
+
+</div>
 
 如果你的列表项目之间有顺序关系，那么你应该用有序列表，否则应该用无序列表。
 
