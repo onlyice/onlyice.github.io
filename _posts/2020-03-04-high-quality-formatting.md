@@ -2,17 +2,10 @@
 layout: post
 title: "如何使你的文章格式美观优雅？"
 image:
-  background: 2019/04/lighthouse.jpg
+  background: 2020/03/designer-sketching-wireframes.jpg
 tags: 
 - 个人成长
 ---
-
-<figure>
-    <img src="{{ site.image_cdn }}/images/2020/03/designer-sketching-wireframes.jpg" />
-    <figcaption>
-      <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@craftedbygc?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Green Chameleon"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Green Chameleon</span></a>
-    </figcaption>
-</figure>
 
 高质量的内容固然是最重要的，但是好的排版会让你的内容锦上添花，让读者有一个好的阅读体验，也能体现文章背后作者的专业和认真。
 
@@ -31,7 +24,7 @@ tags:
 .content-box {
   border-radius: 3px;
   border: 2px solid grey;
-  padding: 10px;
+  padding: 5px;
 }
 </style>
 
@@ -114,7 +107,7 @@ tags:
 
 <div class="content-box">
   <ol>
-    <li>列表第一个项目<p>第一个项目内的额外行。</li>
+    <li>列表第一个项目<p>第一个项目内的额外行。</p></li>
     <li>列表第二个项目</li>
   </ol>
 </div>
