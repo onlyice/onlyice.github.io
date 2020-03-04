@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "如何使你的文章格式美观优雅？"
+description: "高质量的内容固然是最重要的，但是好的排版会让你的内容锦上添花，让读者有一个好的阅读体验，也能体现文章背后作者的专业和认真。"
 image:
-  background: 2020/03/designer-sketching-wireframes.jpg
+  background: 
 tags: 
 - 个人成长
 ---
