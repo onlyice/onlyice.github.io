@@ -146,7 +146,7 @@ tags:
 
 ## 不要让链接直接显示出来
 
-由于链接往往是一长串不太可读的英文字符（如 `https://vuepress.vuejs.org/zh/guide/markdown.html#%E7%9B%AE%E5%BD%95`），应该使用链接到文本的 [能力](https://vuepress.vuejs.org/zh/guide/markdown.html#%E7%9B%AE%E5%BD%95) 而不是直接放出链接本身。
+由于链接往往是一长串不太可读的英文字符，应该使用链接到文本的 [能力](https://vuepress.vuejs.org/zh/guide/markdown.html#%E7%9B%AE%E5%BD%95) 而不是直接放出链接本身。
 
 ## 要不要首行缩进？
 
