@@ -97,13 +97,15 @@ tt, code, kbd, samp, pre {
 	font-family: $code-font;
 }
 p,
-li {
+li,
+td {
 	code {
 		@include font-rem(16);
 		line-height: 1.5;
 		white-space: nowrap;
 		margin: 0 2px;
-		color: #ff2222;
+		color: #dd1144;
+		background: linear-gradient(to right,#fce4ed,#ffe8cc);
 		@include rounded(3px);
 	}
 }
