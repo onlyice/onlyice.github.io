@@ -13,15 +13,6 @@ keywords:
 - 营销
 ---
 
-| Name         | 百万富翁快车道        |
-| Author       | MJ·德马科            |
-| Edition      | N/A                 |
-| Release Date | May, 2017           |
-| ISBN-13      | 978-7508670614      |
-| Medium       | 纸质书               |
-| Rating       | 5                   |
-| Link         | [豆瓣](https://book.douban.com/subject/27041645/) |
-
 这本书比较口水化，但是道理讲得还可以。如果你没有想过如何赚钱致富这一回事，这本书会给你一些启发。作者的观点比较激进，这让我觉得是个加分项；中规中矩的方式能带来的改变太少。
 
 ## 放弃「缓慢致富」
@@ -59,7 +50,7 @@ keywords:
 节省消费没什么问题，问题在于慢车道的收入公式：
 
 **财富 = 工作收入 + 投资收益**
-{: style="font-size: 1.25em; text-align: center;"}
+{: style="text-align: center;"}
 
 工作的好处是：
 
@@ -90,7 +81,7 @@ keywords:
 **财富 = 净利润 + 资产价值**  
 **净利润 = 销售数量 x 利润率**  
 **资产价值 = 净利润 x 行业乘数**  
-{: style="font-size: 1.25em; text-align: center;"}
+{: style="text-align: center;"}
 
 为了提升净利润，你可以：
 
@@ -147,7 +138,7 @@ keywords:
 我将作者的对于个人成长的方法论总结成一条公式：
 
 **成长 = 利用时间的效率 x 时间投入**
-{: style="font-size: 1.25em; text-align: center;"}
+{: style="text-align: center;"}
 
 如果你想要获得足够快的成长：
 

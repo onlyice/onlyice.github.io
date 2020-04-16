@@ -25,15 +25,16 @@ body {
 		}
 	}
 	// Table styling
-	table {
-		font-size: 0.8em;
-	}
 	table, th, td {
-		border: 1px dotted lighten($link-color, 50);
+		border: 1px solid lighten($link-color, 20);
 		border-collapse: collapse;
 	}
 	th, td {
-		padding: 0.5em;
+		padding: 0 7px;
+	}
+	th {
+		background-color: #f04747;
+    	color: $white;
 	}
 }
 
