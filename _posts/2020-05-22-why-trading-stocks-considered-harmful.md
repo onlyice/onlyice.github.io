@@ -4,7 +4,7 @@ title: "为什么我炒股失败了"
 image:
   background: background/witewall_3.png
 tags:
-  - 所思所想
+  - 生活随想
 ---
 
 在这动荡的一年，我炒股失败了，于是有了一些想法跟总结跟大家分享。
