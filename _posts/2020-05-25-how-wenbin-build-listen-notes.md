@@ -29,6 +29,12 @@ Wenbin 对待技术的态度非常务实。他在技术选型上，一直强调�
 - 不做纯粹的前后端分离，网页中有一半是后端生成（Django Template），有一半是前端渲染（React）
 - 使用的都是发展多年的成熟技术，比如 PostgreSQL、Ansible 等。Wenbin 说这些技术可以让他晚上睡得好一些
 
+这种务实不仅体现在技术决策上，也体现在 Listen Notes 的 [广告投放页](https://www.listennotes.com/ads/) 上：
+
+<img src="{{ site.image_cdn }}/images/2020/05/listen-notes-ads.png" />
+
+广告主关心的核心数据指标、用户画像、费用等等，都直观清晰地列了出来，没有遮掩。而相较之下，市面上大部分产品往往不愿意公开数据指标和广告费用。
+
 Wenbin 在旧金山租了一间 WeWork 办公室给自己办公。租金不便宜，但是他乐意花钱在工作效率上，而不是在家或者咖啡厅，花更多时间完成同样的工作。
 
 他也提到他的创业哲学：
@@ -43,4 +49,14 @@ Wenbin 在旧金山租了一间 WeWork 办公室给自己办公。租金不便�
 >
 > 你的过度思考就是我的机会。
 
-另外，这两个帖子中也提及它使用的工具、技术、开发流程和使用的 SaaS 服务，很值得作为一个参考。
+最后，再看看 Wenbin 的 Twitter 和 LinkedIn。我不得不说是个很有个性的人……比如 Twitter 上写的地理位置：
+
+<img src="{{ site.image_cdn }}/images/2020/05/wenbin-twitter.png" />
+
+LinkedIn 上这个个人评价，好一个 useful……而且读博还辍学了：
+
+<img src="{{ site.image_cdn }}/images/2020/05/wenbin-linkedin-1.png" />
+
+再看看语言能力。C / x86 Assembly 是什么鬼……
+
+<img src="{{ site.image_cdn }}/images/2020/05/wenbin-linkedin-2.png" />
