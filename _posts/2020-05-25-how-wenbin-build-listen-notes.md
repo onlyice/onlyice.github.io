@@ -3,7 +3,6 @@ layout: post
 title: "Listen Notes：只有一个员工的盈利产品"
 image:
   background: background/witewall_3.png
-description: "Your overthinking is my opportunity. Think big, start small, act fast."
 tags:
   - 生活随想
 ---
