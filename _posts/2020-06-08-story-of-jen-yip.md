@@ -35,7 +35,7 @@ Jen Yip 是一个方法独特的记账软件 [Lunch Money][lunch-money] 的唯�
 
 <div class="content-box" markdown="1">
 
-对于市面上已经有两大记账软件 Mint 和 YNAB，再做一个记账软件的意义是什么？Jen 给出了她的答案：
+**对于市面上已经有两大记账软件 Mint 和 YNAB，再做一个记账软件的意义是什么？**
 
 > But I think you also bring up a good point that a lot of people feel that the personal finance and budgeting app space is oversaturated. I don’t think that at all, because I feel that personal finance is a **very personal thing**. Everyone has their own way that they like to do things.
 >
@@ -51,7 +51,7 @@ Jen 认为记账这个过程是非常 personal 的。每个人的方式、着重
 
 <div class="content-box" markdown="1">
 
-关于怎么在高强度的工作中不 burn out：
+**关于怎么在高强度的工作中不 burn out**：
 
 > But I’ve noticed that my working cadence is, I’ll be deep into a major feature or maybe a group of improvements that I’d like to make on a particular feature and I’ll work on it for three days. Once I deploy and I notify my users, it’s like this wave comes crashing down and I lose the motivation to work a little bit.
 >
@@ -63,7 +63,7 @@ Jen 的方式大概是，集中三四天时间做一个大的 feature 或者搞�
 
 <div class="content-box" markdown="1">
 
-关于如何获得动力：
+**关于如何获得动力**：
 
 > Reflecting on my own experiences so far, I would say that an overarching theme is self-driven change. I know that’s not easy for everyone. It can be scary to change things up. But personally, **I realized that I have a tendency to leave when things start to get too comfortable**. That has always been a net positive for me in the end.
 >
@@ -81,7 +81,7 @@ Jen 会希望在自己不要过得太舒适。当过得太舒适时，她会选�
 
 <div class="content-box" markdown="1">
 
-关于是否要将事务性工作自动化：
+**关于是否要将事务性工作自动化**：
 
 Jen 认为一些事情并 **不需要急着自动化**，除非到了你觉得需要去做的那天。有些事务性工作出现的频率并不高，对比起花费在将其自动化上的时间，可能人工搞搞会更省时省力。特别是对于 Lunch Money 这种早期的产品，功能特性处在快速变化中，一些事务性的工作可能过阵子就不需要再做了。
 
@@ -89,7 +89,7 @@ Jen 认为一些事情并 **不需要急着自动化**，除非到了你觉得�
 
 <div class="content-box" markdown="1">
 
-关于如何将市场推广与特性发布结合：
+**关于如何将市场推广与特性发布结合**：
 
 当 Jen 做一轮推广后，会有一波新用户集中注册和试用，他们会提出自己想要的特性或者反馈 bug。这时 Jen 会抓紧把这些建议收集起来，并且在几天内集中精力开发和修复，并在用户的 15 天试用期结束前将这些功能发布，再通知一波用户。此时用户的转化率比较高。
 
@@ -99,7 +99,7 @@ Jen 认为一些事情并 **不需要急着自动化**，除非到了你觉得�
 
 <div class="content-box" markdown="1">
 
-关于如何处理用户反馈：
+**关于如何处理用户反馈**：
 
 Jen 使用了第三方服务，可以将用户反馈推送到她的 Gmail 邮箱中。她再通过 Gmail 的过滤功能给邮件打上标签做分类。另外她会针对特定场景优化用户体验。比如有很多用户因为银行帐户启用了二步验证，导致无法通过 Lunch Money 同步账单数据，提了很多工单给到 Jen。
 
@@ -111,7 +111,7 @@ Jen 分析之后，在 Lunch Money 中同步账号的组件上，添加了一个
 
 <div class="content-box" markdown="1">
 
-关于如何保持积极：
+**关于如何保持积极**：
 
 > This intense context-switching and practice of self-discipline trained me for the life of a solopreneur. Being able to switch between engineering, marketing and customer support in the blink of an eye helps with my overall time efficiency and **being constantly aware of the bigger picture is my source of motivation for getting through a tedious task**.
 
@@ -123,7 +123,7 @@ Jen 分析之后，在 Lunch Money 中同步账号的组件上，添加了一个
 
 <div class="content-box" markdown="1">
 
-关于业余爱好：
+**关于业余爱好**：
 
 > Having hobbies that are not work-related is really helpful. I’ve been consistently attending in-person classes to strengthen my Mandarin Chinese since July 2019. While being pulled away for 2+ hours every other day during the work week isn’t always welcomed at the time, I usually feel good about getting out of the house or focusing on something that isn’t work-related and it allows me to get back to the grind with a clearer mind.
 
@@ -135,7 +135,7 @@ Jen 分析之后，在 Lunch Money 中同步账号的组件上，添加了一个
 
 <div class="content-box" markdown="1">
 
-关于是否在初期做移动端：
+**关于是否在初期做移动端**：
 
 > Looking back now, it was the right decision to hold off on a mobile app. Keeping parity with both web and mobile while iterating regularly on the product would have been nearly impossible. The web version changed so quickly with many features having been completely re-written in the last 6 months. That would have taken more than twice the time if I also had to consider the mobile app whose update cycles are at the mercy of Apple and Google.
 
@@ -150,7 +150,7 @@ Jen 的结论是 **在产品初期不要急着做移动端**。因为：
 
 <div class="content-box" markdown="1">
 
-关于要不要写下产品背后的故事？
+**关于要不要写下产品背后的故事？**
 
 > After some initial feedback, I decided to implement an About page and start sending a welcome email to new users introducing myself as the one-woman team behind the product.
 >
@@ -164,7 +164,7 @@ Jen 一开始是不太想写的，她担心让用户发现这个产品只是一�
 
 <div class="content-box" markdown="1">
 
-关于产品帮助文档系统的选型：
+**关于产品帮助文档系统的选型**：
 
 使用 Jekyll 配合 ThemeForest 上的模版构建。不使用付费服务，因为文档系统本身不难实现，市面上已经有很多静态网站生成器。同时付费服务提供的额外功能，比如评论和 Live Chat，并没有什么用。
 
@@ -172,7 +172,7 @@ Jen 一开始是不太想写的，她担心让用户发现这个产品只是一�
 
 <div class="content-box" markdown="1">
 
-关于用户反馈邮件：
+**关于用户反馈邮件**：
 
 用户发送到域名邮箱 support@lunchmoney.app 时，一开始 Jen 使用免费服务 Mailgun 转发到她的个人邮箱中。但问题是，她通过 Mailgun 回复的邮件，无法送达到 Outlook.com / Hotmail.com 中，原因是有大量 spammer 也通过 Mailgun 发送垃圾邮件，导致一些 Mailgun IP 进了垃圾邮件黑名单。Sendgrid 跟 Mailgun 都有类似的问题。
 最终她还是使用了 G Suite，可以绑定域名邮箱。
