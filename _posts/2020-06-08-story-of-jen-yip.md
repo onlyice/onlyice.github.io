@@ -33,7 +33,7 @@ Jen Yip 是一个方法独特的记账软件 [Lunch Money][lunch-money] 的唯�
 
 如果你对她的经历有兴趣，我建议你自己阅读下上面的采访和文章。但我也总结了一些其中的要点列在下面。
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 对于市面上已经有两大记账软件 Mint 和 YNAB，再做一个记账软件的意义是什么？Jen 给出了她的答案：
 
@@ -49,7 +49,7 @@ Jen 认为记账这个过程是非常 personal 的。每个人的方式、着重
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于怎么在高强度的工作中不 burn out：
 
@@ -61,7 +61,7 @@ Jen 的方式大概是，集中三四天时间做一个大的 feature 或者搞�
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于如何获得动力：
 
@@ -79,7 +79,7 @@ Jen 会希望在自己不要过得太舒适。当过得太舒适时，她会选�
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于是否要将事务性工作自动化：
 
@@ -87,7 +87,7 @@ Jen 认为一些事情并 **不需要急着自动化**，除非到了你觉得�
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于如何将市场推广与特性发布结合：
 
@@ -97,7 +97,7 @@ Jen 认为一些事情并 **不需要急着自动化**，除非到了你觉得�
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于如何处理用户反馈：
 
@@ -109,7 +109,7 @@ Jen 分析之后，在 Lunch Money 中同步账号的组件上，添加了一个
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于如何保持积极：
 
@@ -121,7 +121,7 @@ Jen 分析之后，在 Lunch Money 中同步账号的组件上，添加了一个
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于业余爱好：
 
@@ -133,7 +133,7 @@ Jen 分析之后，在 Lunch Money 中同步账号的组件上，添加了一个
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于是否在初期做移动端：
 
@@ -148,7 +148,7 @@ Jen 的结论是 **在产品初期不要急着做移动端**。因为：
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于要不要写下产品背后的故事？
 
@@ -162,7 +162,7 @@ Jen 一开始是不太想写的，她担心让用户发现这个产品只是一�
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于产品帮助文档系统的选型：
 
@@ -170,7 +170,7 @@ Jen 一开始是不太想写的，她担心让用户发现这个产品只是一�
 
 </div>
 
-<div class="content-box">
+<div class="content-box" markdown="1">
 
 关于用户反馈邮件：
 
