@@ -25,19 +25,6 @@ keywords:
 
 <!--more-->
 
-<style>
-.content-box {
-  border-radius: 3px;
-  border: 2px solid grey;
-  padding: 5px;
-}
-.content-box>p, .content-box>blockquote {
-  margin-left: 16px;
-  margin-right: 16px;
-  margin-block-end: 16px;
-}
-</style>
-
 ## 正确使用标点符号和空格
 
 这是最基础也是最重要的。
