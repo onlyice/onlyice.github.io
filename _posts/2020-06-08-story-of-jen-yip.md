@@ -4,7 +4,7 @@ title: "Jen Yip：一个好的独立开发者案例"
 image:
   background: background/witewall_3.png
 keywords: 
-- "独立开发者"-
+- "独立开发者"
 - "女性"
 - "大厂辞职"
 description: ""
