@@ -39,7 +39,7 @@ tags:
 
 <div class="content-box" markdown="1">
 
-**[本轮“牛市两个代表”：中芯国际和华虹半导体 - 国信海外](https://finance.sina.com.cn/stock/relnews/hk/2020-07-03/doc-iirczymm0259929.shtml)** 节选：
+[本轮“牛市两个代表”：中芯国际和华虹半导体 - 国信海外](https://finance.sina.com.cn/stock/relnews/hk/2020-07-03/doc-iirczymm0259929.shtml) 节选：
 
 > 估值逻辑：短期看，华虹半导体估值向中芯国际（3 倍 PB）看齐，中芯国际估值向科创板的华润微（5 倍 PB）看齐。长期看，按照技术先进程度、产能规模，三者估值高低排序应该是“中芯国际 > 华虹半导体 > 华润微”。
 > 
@@ -51,7 +51,7 @@ tags:
 
 <div class="content-box" markdown="1">
 
-**[高盛：上调中芯 (0981.HK) 目标价至 42 港元 重申确信买入名单](https://www.gelonghui.com/live/396188)** 节选：
+[高盛：上调中芯 (0981.HK) 目标价至 42 港元 重申确信买入名单](https://www.gelonghui.com/live/396188) 节选：
 
 > 高盛发表报告表示，重申中芯国际 (0981.HK) 买入投资评级及该行“确信买入”名单，并大升目标价由原来 23 港元升至 42 港元，此按折让预测市盈率方式估值，相当预测 2022 年预测市盈率 68 倍及市账率 3.8 倍，料公司至 2022 年下半年可升级至 7 纳米制程、料 2024 年下半年可升级至 5 纳米制程，料至 2025 年毛利率可升至 30%。
 
@@ -63,7 +63,7 @@ tags:
 
 <div class="content-box" markdown="1">
 
-**[国信证券：中芯国际(00981)H股股价将向科创板股价看齐 目标价看至46-48港元](https://www.zhitongcaijing.com/content/detail/315755.html)** 节选：
+[国信证券：中芯国际(00981)H股股价将向科创板股价看齐 目标价看至46-48港元](https://www.zhitongcaijing.com/content/detail/315755.html) 节选：
 
 > 中芯国际港股股价我们维持之前判断，公司合理PB估值范围 5~6 倍，对应 46~48 港元(暂不考虑科创板募集)。
 > 
@@ -79,7 +79,7 @@ tags:
 
 <div class="content-box" markdown="1">
 
-**[国信证券：中芯国际比贵州茅台更珍贵 目标价 83.3 元](http://gu.qq.com/resources/shy/news/detail-v2/index.html#/?id=nesSN202007160900477b1c0676&s=b)** 节选：
+[国信证券：中芯国际比贵州茅台更珍贵 目标价 83.3 元](http://gu.qq.com/resources/shy/news/detail-v2/index.html#/?id=nesSN202007160900477b1c0676&s=b) 节选：
 
 > 中芯国际比贵州茅台更珍贵。从可替代性来讲，中芯国际与贵州茅台一样不可替代、无法复制。同时，因为稀缺性导致中芯国际具有和贵州茅台同样的议价能力。从社会必要劳动时间的角度看，中芯国际的价值量超越贵州茅台。800 年前就有茅台了，而我们奋斗到今天才有中芯国际的 14nm 先进制程。
 > 
