@@ -9,7 +9,7 @@ keywords:
 - "大厂辞职"
 description: ""
 tags:
-  - 生活随想
+- 个人成长
 ---
 
 Jen Yip 是一个方法独特的记账软件 [Lunch Money][lunch-money] 的唯一开发者。她单独开发维护这个软件，甚至连客服也是自己做，目前已经取得了 $40k ARR（annual recurring revenue，每年收入）。从她的经历看，应该与我同龄，但 Lunch Money 的功能丰富程度和强烈的设计风格上看，很难让人相信这是一个人做出来的作品，不得不让我佩服她的技能水平高超。她大致的经历如下：

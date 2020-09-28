@@ -4,7 +4,7 @@ title: "Listen Notes：只有一个员工的盈利产品"
 image:
   background: background/witewall_3.png
 tags:
-  - 生活随想
+- 个人成长
 ---
 
 [Listen Notes](https://www.listennotes.com/) 是一个播客搜索引擎。它提供的功能有：
