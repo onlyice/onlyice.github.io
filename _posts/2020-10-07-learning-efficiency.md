@@ -2,7 +2,7 @@
 layout: post
 title: "为什么我学得很慢导致很菜"
 image:
-  background: 2019/01/game-of-throne.jpg
+  background: 2019/04/lighthouse.jpg
 description: ""
 tags:
 - 个人成长
