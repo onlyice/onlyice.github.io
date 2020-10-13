@@ -1,5 +1,5 @@
 title:            onlyice
-description:      Life is short, make more fun
+description:      纪录所思所想
 disqus_shortname: 
 reading_time:     false
 words_per_minute: 200
@@ -10,10 +10,10 @@ url: https://blog.zhiheng.io
 
 # Owner/author information
 owner:
-  name:           onlyice
+  name:           林志衡
   avatar:         avatar.jpg
-  bio:            
-  email:
+  bio:            无业游民。
+  email:          onlyice0328@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        onlyice0328
   facebook:
