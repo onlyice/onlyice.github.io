@@ -11,17 +11,17 @@ modified: 2020-01-16
 
 联系：
 
-- Telegram：[https://t.me/onlyice](https://t.me/onlyice)
+- [Telegram](https://t.me/onlyice)
 
 长内容一般发在：
-- 博客：[https://blog.zhiheng.io/](https://blog.zhiheng.io/)
-- 豆瓣：[https://www.douban.com/people/onlyice/notes](https://www.douban.com/people/onlyice/notes)
+- [博客](https://blog.zhiheng.io/)
+- [豆瓣](https://www.douban.com/people/onlyice/notes)
 
 短内容一般发在：
 
-- 豆瓣广播：[https://www.douban.com/people/onlyice/statuses](https://www.douban.com/people/onlyice/statuses)
-- Weibo：[https://weibo.com/u/1777320873](https://weibo.com/u/1777320873)
-- TG Channel：[https://t.me/s/DetailsMatter](https://t.me/s/DetailsMatter)
-- Twitter：[https://twitter.com/onlyice0328](https://twitter.com/onlyice0328)
+- [豆瓣广播](https://www.douban.com/people/onlyice/statuses)
+- [Weibo](https://weibo.com/u/1777320873)
+- [TG Channel](https://t.me/s/DetailsMatter)
+- [Twitter](https://twitter.com/onlyice0328)
 
-我的个人知识库：[https://wiki.zhiheng.io/](https://wiki.zhiheng.io/)
+我的 [个人知识库](https://wiki.zhiheng.io/)。
