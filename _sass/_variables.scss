@@ -31,7 +31,7 @@ $body-color      		 : #e8e8e8;
 $text-color      		 : rgba(#222,0.8);
 $comp-color 	 		   : complement(#222); 
 $border-color    		 : #ffdb00;
-$entry-link-color        : $border-color;
+$entry-link-color        : darken($border-color,5);
 $block-quote-color       : lighten($base-color,10);
 $block-quote-bg-color    : lighten($border-color,45);  // #fffbe5
 $white           		 : #fff;
