@@ -27,14 +27,13 @@ body {
   p > a,
   li > a,
   td > a {
-    color: #191919;
     padding: 2px 0 1px 0;
     text-decoration: none;
     background-image: linear-gradient(
       transparent 0%,
       transparent calc(50% - 9px),
-      #ffdb00 calc(50% - 9px),
-      #ffdb00 100%
+      $entry-link-color calc(50% - 9px),
+      $entry-link-color 100%
     );
     transition: background-position 120ms ease-in-out, padding 120ms ease-in-out;
     background-size: 100% 200%;
