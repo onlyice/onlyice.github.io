@@ -73,10 +73,7 @@ blockquote {
 	color: $block-quote-color;
 	background-color: $block-quote-bg-color;
 	border-left: 8px solid $border-color;
-	padding-left: 20px;
-	@media #{$medium} {
-		margin-left: -28px;
-	}
+	padding: 20px 5px;
 }
 
 // List items

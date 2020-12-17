@@ -7,6 +7,8 @@ words_per_minute: 200
 # When testing locally leave blank or use http://localhost:4000
 url: https://blog.zhiheng.io
 # url: http://127.0.0.1:4000
+# Control the share area in the footer of the post
+share: false
 
 # Owner/author information
 owner:
