@@ -29,20 +29,7 @@ body {
   td > a {
     padding: 2px 0 1px 0;
     text-decoration: none;
-    background-image: linear-gradient(
-      transparent 0%,
-      transparent calc(50% - 9px),
-      $entry-link-color calc(50% - 9px),
-      $entry-link-color 100%
-    );
-    transition: background-position 120ms ease-in-out, padding 120ms ease-in-out;
-    background-size: 100% 200%;
-    background-position: 0 0;
-    word-break: break-word;
-
-    &:hover {
-      background-position: 0 100%;
-    }
+    color: $entry-link-color;
   }
   // Table styling
   table,

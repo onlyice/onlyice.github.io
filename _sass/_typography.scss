@@ -22,15 +22,15 @@ h1 {
 a {
 	text-decoration: none;
 	color: $link-color;
-	&:visited {
-		color: lighten($link-color, 20);
-	}
-	&:hover {
-		color: darken($link-color, 20);
-	}
+	// &:visited {
+	// 	color: lighten($link-color, 20);
+	// }
+	// &:hover {
+	// 	color: darken($link-color, 20);
+	// }
 	&:focus {
 		outline: thin dotted;
-		color: darken($link-color, 20);
+		// color: darken($link-color, 20);
 	}
 	&:hover,
 	&:active {
@@ -73,7 +73,7 @@ blockquote {
 	color: $block-quote-color;
 	background-color: $block-quote-bg-color;
 	border-left: 8px solid $border-color;
-	padding: 20px 5px;
+	padding: 5px 20px;
 }
 
 // List items
