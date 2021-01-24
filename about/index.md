@@ -25,4 +25,6 @@ modified: 2020-01-16
 - [TG Channel](https://t.me/s/DetailsMatter)
 - [Twitter](https://twitter.com/onlyice0328)
 
+计算机技术相关的幻灯片发布在 [Speaker Deck](https://speakerdeck.com/onlyice)。
+
 我的 [个人知识库](https://wiki.zhiheng.io/)。
